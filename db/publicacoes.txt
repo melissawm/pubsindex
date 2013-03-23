@@ -1,0 +1,244 @@
+M. M. Alves, B. F. Svaiter, M. Yosida;
+Regularization of Maximal Monotone Operators of Type (D);
+Set-Valued and Variational Analysis, v. 19, p. 97-106;
+2011.
+
+L. H. Bezerra;
+Matrizes Especiais em Matemática Numérica;
+Rio de Janeiro: IMPA, 98 p.;
+2011.
+
+M. M. Alves, B. F. Svaiter;
+Fixed points of generalized conjugations;
+Journal of Convex Analysis, v. 18, p. 577-588;
+2011.
+
+M. M. Alves, B. F. Svaiter;
+On the surjectivity properties of perturbations of maximal monotone operators in non-reflexive Banach spaces;
+Journal of Convex Analysis, v. 18, p. 209-226;
+2011.
+
+W. Cortes, V. Rodrigues, A. Sant'Ana;
+All hereditary torsion theories are higher differential;
+Contemp. Math., 537, pp. 137-141;
+2011.
+           
+A. Paques, V. Rodrigues, A. Sant'Ana;
+Galois correspondences for partial Galois Azumaya extensions;
+J. Algebra Appl. 10, No 5, pp. 835-847;
+2011. 
+           
+M. W. Zibetti, F. S. Viloche Bazán, J. Mayer; 
+Estimation of the parameters in regularized simulateneous Super-resolution;
+Pattern Recongnition Letters, vol. 32, Issue 1, doi. 10.1016/j.patrec.2009.12.009;
+2011.
+
+D. Gonçalves, D. Royer;
+Unitary equivalence of representations of graph algebras and branching systems;
+Functional Analysis and its Applications, v. 45, p. 117-127;
+2011.
+           
+R. C. Charão, R. Ikehata;
+Energy decay rates of elastic waves in unbounded domain with potential type of damping; 
+Journal of Mathematical Analysis and Applications, 380, 46-56;
+2011.
+             
+R. C. Charão, J. C. Oliveira, G. P. Menzala;
+Decay rates of magnetoelastic waves in an unbounded conductive medium; 
+Electronic Journal of Differential Equations 127, 1-14;
+2011.
+
+L. H. Bezerra, L. K. Sacht;
+On computing Bézier curves by Pascal matrix methods;
+Applied Mathematics and Computation, 217 (24): 10118-10128;
+2011.
+             
+L. H. Bezerra;
+Música e matemática: relações íntimas e abertas. 
+Ciência Hoje, 282: 36-41;
+2011.
+             
+M. Carvalho, A. Lyra;
+A Geometrical Setting for Constructing Nonlinear Lorentz Transformations of the Albano-Dresden Type; 
+Physics Research International Volume 2011, Article ID 302164, 9 pages doi:10.1155/2011/302164;
+2011.
+             
+C. R. da Luz, G. P. Menzala;
+Uniform decay rates of coupled anisotropic elastodynamic/Maxwell equations with nonlinear damping;
+Portugaliae Mathematica Portugal. Math. (N.S.) Vol. 68, Fasc. 2, 205-238 DOI 10.4171/PM/1889;
+2011.
+             
+R. Exel;
+Non-Hausdorff groupoids;
+Proc. Amer. Math. Soc., 139, 897-907;
+2011.
+
+R. Exel;
+Noncommutative Cartan sub-algebras of C*-algebras;
+New York J. Math., 17, 331-382;
+2011.
+
+R. Exel, T. Giordano, D. Gonçalves;
+Enveloping algebras of partial actions as groupoid C*-algebras;
+J. Operator Theory, 65, 197-210;
+2011.
+
+M. Sobottka, A. Hart;
+A model capturing novel strand symmetries in bacterial DNA;
+Biochemical and Biophysical Research Communications, 410, 4, 823-828; doi:10.1016/j.bbrc.2011.06.072;
+2011.
+
+E. Garibaldi, M. Sobottka;
+Average sex ratio and population maintenance cost;
+SIAM Journal on Applied Mathematics, 71, 1009-1025, doi:10.1137/100817310;
+2011.
+
+A. Buss, R. Meyer. C. Zhu;
+Non-Hausdorff symmetries of C*-algebras;
+Mathematische Annalen, v. 350, p. 1-25;
+2011.
+
+A. Buss, R. Exel;
+Twisted actions and regular Fell bundles over inverse semigroups;
+Proceedings of the London Mathematical Society (Print), v. 102, p. 1-36;
+2011.
+
+M. M. S. Alves, E. Batista;
+Globalization theorems for partial Hopf (co)actions and some of their applications;
+Contemporary Mathematics v. 537, 13-30;
+2011.
+
+D. Gonçalves;
+On the K-theory of the stable C*-algebras from substitution tilings;
+Journal of Funcional Analysis, v. 260, p. 998-1019;
+2011.
+
+D. Gonçalves, D. Royer;
+On the representations of Leavitt path algebras;
+Journal of Algebra. v. 333, p. 258-272;
+2011.
+
+K. H. Leem, G. Pelekanos, F. S. Viloche Bazán;
+Fixed-point iterations in determining a Tikhonov regularization parameter in Kirsch's factorization method;
+Appl. Math. And Computation, Vol. 216, Issue 12, pp. 3747-3753;
+2010.
+  
+F. S. Viloche Bazán;
+Chebyshev pseudospectral method for wave equation with absorbing boundary conditions that does not use a first order hyperbolic system;
+Math. and Comput. in Simulation, Vol. 80, pp. 2124-2133;
+2010.
+
+F. S. Viloche Bazán, L. S. Borges;
+GKB-FP: an algorithm for large-scale discrete ill-posed problems;
+BIT Numerical Mathematics, DOI 10.1007/s10543-010-0275-3;
+2010.
+
+M. Muniz, S. Alves, E. Batista.
+Enveloping actions for partial Hopf actions;
+Communications in Algebra, 38, 2872-2902;
+2010.
+           
+I. P. Costa e Silva;
+On the Gannon-Lee Singularity Theorem in Higher Dimensions;
+Quantum Grav. 27 155016;
+2010.
+           
+F. S. Viloche Bazán, L. S. Borges;
+Métodos para problemas inversos de grande porte;
+Notas em Matemática Aplicada, SBMAC, Vol 39, ISSN 2175-3385;
+2010.
+         
+P. Bösing, A. Madureira, I. Mozolevski;
+A new interior penalty discontinuous Galerkin method for the Reissner-Mindlin model; 
+Mathematical Models and Methods in Applied Sciences, v.20, n. 8, p.1-19;
+2010.
+
+A. Ern, I. Mozolevski, L. Schuh;
+Discontinuous Galerkin approximation of two-phase flows in heterogeneous porous media with discontinuous capillary pressures;
+Computer Methods in Applied Mechanics and Engineering, v.199, p.1491-1501;
+2010.
+
+J. A. L. Silva, J. A. Barrionuevo, F. T. Giordani;
+Synchronism in population networks with non linear coupling;
+Nonlinear Analysis: Real World Applications, Volume 11, Issue 2, April 2010, Pages 1005-1016;
+2010.
+           
+R. Exel, F. Vieira;
+Actions of inverse semigroups arising from partial actions of groups;
+J. Math. Anal. Appl., 363, 86-96;
+2010.
+
+R. Exel;
+Reconstructing a totally disconnected groupoid from its sample semigroup.
+Proc. Amer. Math. Soc., 138, 2991-3001;
+2010.
+
+D. Formolo, L. P. L. de Oliveira, M. Sobottka;
+A competitive searching-based chaotic cipher;
+International Journal of Modern Physics C (2010), 21, 11, 1377 1390, DOI:10.1142/S0129183110015907;
+2010.
+           
+J. C. Liveira, J. M. Pereira, G. Perla Menzala;
+Large time behavior of multidimensional nonlinear lattices with nonlinear damping;
+Communications in Applied Analysis 14(2);
+2010.
+           
+J. C. Oliveira, J. M. Pereira;
+Global attractor for a class of nonlinear lattices;
+Journal of Mathematical Analysis and Applications, 370 (2010), 726-739;
+2010.
+           
+F. S. Viloche Bazán, K. H. Leem, G. Pelekanos;
+An application of a fixed point iteration method to object reconstruction;
+PIERS Online, Vol. 6, No. 3, 227-231, DOI 10.2529/PIERS090906182755;
+2010.
+
+M. W. Zibetti, F. S. Viloche Bazan, J. Mayer;
+Estimation of the parameters in regularized simultaneous Super-resolution;
+Pattern Recognition Letters, DOI 10.1016/j.patrec.2009.12.009;
+2010.
+           
+A. Buss;
+Integrability of dual coactions on Fell bundle C*-algebras;
+Bulletin Brazilian Mathematical Society, v. 41, p. 607-641;
+2010.
+
+D. Gonçalves, D. Royer;
+Perron-Frobenius operators and representations of the Cuntz-Krieger algebras for infinite matrices;
+Journal of Mathematical Analysis and Applications 351, 811-818;
+2009.
+           
+J. C. Oliveira, F. V. Bazán;
+Poisson approach for evaluating numerical methods for the two-dimensional wave equation constrained to absorbing boundary conditions;
+Applied Mathematics and Computation 209, 273-284;
+2009.
+
+R. C. Charão, J. C. Oliveira, G. P. Menzala;
+Energy decay rates of magnetoelastic waves in a bounded conductive medium;
+Discrete and Continuous Dynamical Systems, Series A 25, 797-821;
+2009.
+
+R. C. Charão, M. A. Astaburuaga, C. Fernandez;
+Stabilization of the wave equation with Neumann boundary condition and localized nonlinear damping;
+Journal of Computational Analysis and Applications 11, N. 4, 678-701;
+2009.
+
+C. R. da Luz, R. C. Charão;
+Asymptotic properties for a semilinear plate equation&nbsp; in unbounded domains;
+Journal of Hyperbolic Differential Equations, 6, 1-26;
+2009.
+
+E. Bisognin, V. Bisognin, J. M. Pereira;
+Exponential stabilization of periodic solutions of a system of KdV equations;
+Portugaliae Mathematica 66 (2009), 191-210;
+2009.
+
+F. S. Viloche Bazán, J. B. Francisco;
+An improved fixed-point algorithm for determining a Tikhonov regularization parameter;
+Inverse Problems 25 (2009), 16 pg;
+2009.
+           
+V. S. Rodrigues, A. A. Sant'ana;
+A note on a problem due to Zelmanowitz;
+J. Algebra and Discrete Mathematics, 8 pg.;
+2009.

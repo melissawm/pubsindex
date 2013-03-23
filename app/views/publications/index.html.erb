@@ -1,14 +1,3 @@
-<!doctype html>
-<meta http-equiv="content-type" content="text/html;charset=UTF-8">
-<title>Publica&ccedil;&otilde;es MTM-UFSC</title>
-<link rel=stylesheet type=text/css href="style.css">
-  <div class=metanav>
-  {% if not session.logged_in %}
-    <a href="{{ url_for('login') }}">Conectar-se</a>
-  {% else %}
-    <a href="{{ url_for('logout') }}">Desconectar-se</a>
-  {% endif %}
-  </div>
 <div class=page>
   <h1>Lista de Publica&ccedil;&otilde;es MTM-UFSC</h1>
   <br>
