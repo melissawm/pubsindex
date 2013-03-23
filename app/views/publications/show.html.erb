@@ -1,0 +1,31 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <h3>Authors:</h3>
+  <%= raw @publication.professors.collect {|p| 
+      if p.institution == 'UFSC'
+      link_to "<b>#{p.name}</b>".html_safe, p
+      else
+      link_to p.name, p
+      end
+      }.join(', ') %>
+</p>
+
+<p>
+  <h3>Title:</h3>
+  <%= @publication.title %>
+</p>
+
+<p>
+  <h3>Year:</h3>
+  <%= @publication.year %>
+</p>
+
+<p>
+  <h3>Journal:</h3>
+  <%= @publication.journal %>
+</p>
+
+
+<%= link_to 'Edit', edit_publication_path(@publication) %> |
+<%= link_to 'Back', publications_path %>

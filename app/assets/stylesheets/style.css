@@ -1,0 +1,25 @@
+body            { font-family: sans-serif; background: #eee; }
+a, h1, h2       { color: #035E70; }
+h1, h2          { font-family: 'Georgia', serif; margin: 0; }
+h1              { border-bottom: 2px solid #eee; }
+h2              { font-size: 1.2em; }
+it              { font-style: italic; }
+
+.autores        { color: #035E70; width: 30%; }
+.page           { margin: 2em auto; width: 80%; border: 5px solid #ccc;
+                  padding: 0.8em; background: white; }
+.w80            { width: 80%; }
+.entries        { font-family: sans-serif; border-collapse: collapse; }
+.entries h2     { font-family: sans-serif; font-size: 1em; }
+.entries td     { padding: 0.6em; }
+.odd            { background: #DAF0EF; }
+.add-entry      { font-size: 0.9em; border-bottom: 1px solid #ccc; }
+.add-entry dl   { font-weight: bold; }
+.metanav        { text-align: right; font-size: 0.8em; padding: 0.3em;
+                  margin-bottom: 1em; }
+.metanav_add    { text-align: right; font-size: 1em; padding: 0.3em;
+                  margin-bottom: 1em; background: #fafafa; }
+.flash          { background: #CEE5F5; padding: 0.5em;
+                  border: 1px solid #AACBE2; }
+.error          { background: #F0D6D6; padding: 0.5em; }
+.errors         { color: red; font-style: italic; font-size:small }

@@ -1,0 +1,22 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @professor.name %>
+</p>
+
+<p>
+  <b>Institution:</b>
+  <%= @professor.institution %>
+</p>
+
+<p>
+  <b>Publications:</b>
+  <% @professor.publications.each do |publication| %>
+  <li><%= link_to publication.title, publication %></li>
+  <% end %>
+</p>
+
+
+<%= link_to 'Edit', edit_professor_path(@professor) %> |
+<%= link_to 'Back', professors_path %>
